@@ -256,6 +256,7 @@ if version >= 508 || !exists("did_javascript_syn_inits")
   HiLink jsKeyword              Keyword
   HiLink jsFunction             Type
   HiLink jsFuncName             Function
+  HiLink jsFuncArgs             Special
   HiLink jsArgsObj              Special
   HiLink jsError                Error
   HiLink jsParensError          Error
